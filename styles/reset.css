@@ -1,0 +1,81 @@
+/* reset.css */
+
+/* Box sizing rules */
+html {
+    box-sizing: border-box;
+}
+*, *::before, *::after {
+    box-sizing: inherit;
+}
+
+/* Remove default margin and padding */
+body, h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+dl, dd, ol, ul, figure,
+hr, fieldset, legend {
+    margin: 0;
+    padding: 0;
+}
+
+/* Remove default list styles (bullet points, etc.) */
+ol, ul {
+    list-style: none;
+}
+
+/* Remove default typography styles */
+body {
+    font-family: Arial, sans-serif; /* Escolha a fonte que desejar */
+    font-size: 16px; /* Escolha o tamanho de fonte base que desejar */
+    line-height: 1.5; /* Escolha a altura de linha desejada */
+}
+
+/* Remove default hyperlink styles */
+a {
+    text-decoration: none;
+    color: inherit;
+}
+
+/* Remove default button styles */
+button, input, select, textarea {
+    margin: 0;
+    padding: 0;
+    border: none;
+    background: none;
+    font: inherit;
+    color: inherit;
+    cursor: pointer;
+    outline: none;
+}
+
+/* Remove default form styles */
+button::-moz-focus-inner,
+input::-moz-focus-inner {
+    border: 0;
+    padding: 0;
+}
+
+/* Remove default table styles */
+table {
+    border-collapse: collapse;
+    border-spacing: 0;
+}
+
+/* Remove default image border */
+img {
+    border-style: none;
+}
+
+/* Remove default embedded media border */
+iframe {
+    border: none;
+}
+
+/* Reset miscellaneous elements */
+sup {
+    vertical-align: text-top;
+}
+
+sub {
+    vertical-align: text-bottom;
+}
+
+/* Other resets as needed... */
