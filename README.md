@@ -1,5 +1,9 @@
-# Portf-lio
+# Portfolio
+
 em andamento, para os recrutadores me avaliarem e contratar!
+
+<p> Esse portifólio tem o intuito de mostrar minha capacidades e projeto. <br> No entanto criei uma equipe para trabalhar de freelancer então sempre que você quiser nossos serviços, converse com nosco.
+</p>
 
 minha paleta de cor é baseada na realeza por isso temos cores com tons reais ou dorado!
 
